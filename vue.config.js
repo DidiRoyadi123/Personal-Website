@@ -6,5 +6,8 @@
 //     "vuetify"
 //   ],
 // }
+module.exports = {
+    publicPath: process.env.NODE_ENV === "production" ? "/Personal-Website/" : "/",
+  };
 
 /* When Hosting Normally Delete everything in this file */
