@@ -15,7 +15,7 @@
       <v-col cols="12" md="4" sm="5">
         <h1>About Me</h1>
         <p id="primaryText">
-          Saya Didi. Saat ini sednag menemempuh pendidikan di Universitas Catur Insan Cendekia Cirebon dengan Program studi Sistem Informasi-Enterprise. <br /><br />
+          Saya Didi. Saat ini sedang menemempuh pendidikan di Universitas Catur Insan Cendekia Cirebon dengan Program studi Sistem Informasi-Enterprise. <br /><br />
           Saya Senang membuat orang bahagia dengan karya yang pernah saya buat. Saya sangat tertarik dengan pengembangan web terutama dari sisi frontend.
         </p>
         <v-btn
