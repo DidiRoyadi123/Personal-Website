@@ -43,7 +43,7 @@
 
           <div class="wrapper mt-4">
             <p color="transparent">
-              <a data-aos="fade-up" data-aos-offset="1" data-aos-delay="1400" data-aos-duration="1600"
+              <a data-aos="fade-up" data-aos-offset="1" data-aos-delay="50" data-aos-duration="1600"
                 data-aos-easing="ease-in-out" data-aos-once="true"
                 href="https://instagram.com/royadi1304?igshid=ZmZhODViOGI=" target="_blank">
 
@@ -328,7 +328,7 @@ h2 {
 
 /* Animation */
 #typeWriter {
-  animation: animated-text 2s steps(25, end) 4s 1 normal both;
+  animation: animated-text 1s steps(25, end) 4s 1 normal both;
 }
 
 #border {

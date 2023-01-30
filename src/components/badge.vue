@@ -34,12 +34,31 @@
                 <p>CyberOps Associate</p>
                 </a>
             </v-col>
-            <v-col class="colBawah" cols="12" md="12" sm="12">
+            <v-col class="colBawah" cols="12" md="3" sm="12">
                 <a href="https://www.credly.com/badges/07f06137-6ba3-46c0-880f-2fd4a3d3fdce/public_url" target="_blank">
-                <v-img class="badgeImg" src="../assets/badge_IT.png" max-width="30%" max-height="30%" contain></v-img>
+                <v-img class="badgeImg" src="../assets/badge_IT.png" max-width="70%" max-height="70%" contain></v-img>
                 <p>Google IT Support</p>
                 </a>
             </v-col>
+            <v-col class="colBawah" cols="12" md="3" sm="12">
+                <a href="https://github.com/users/DidiRoyadi123/achievements/quickdraw" target="_blank">
+                <v-img class="badgeImg" src="../assets/quickdraw.png" max-width="70%" max-height="70%" contain></v-img>
+                <p>Github: Quick Draw</p>
+                </a>
+            </v-col>
+            <v-col class="colBawah" cols="12" md="3" sm="12">
+                <a href="https://github.com/users/DidiRoyadi123/achievements/yolo" target="_blank">
+                <v-img class="badgeImg" src="../assets/yolo.png" max-width="70%" max-height="70%" contain></v-img>
+                <p>Github: Yolo</p>
+                </a>
+            </v-col>
+            <v-col class="colBawah" cols="12" md="3" sm="12">
+                <a href="https://github.com/users/DidiRoyadi123/achievements/pull-shark" target="_blank">
+                <v-img class="badgeImg" src="../assets/pull-shark.png" max-width="70%" max-height="70%" contain></v-img>
+                <p>Github: Pull Shark</p>
+                </a>
+            </v-col>
+
         </v-row>
     </v-container>
 </template>
